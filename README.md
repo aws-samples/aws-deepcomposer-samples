@@ -1,4 +1,4 @@
-## My Project
+## AWS DeepComposer
 
 TODO: Fill this README out!
 
