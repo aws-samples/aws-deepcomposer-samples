@@ -1,6 +1,8 @@
 ## AWS DeepComposer
 
-TODO: Fill this README out!
+Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
+
+
 
 Be sure to:
 
