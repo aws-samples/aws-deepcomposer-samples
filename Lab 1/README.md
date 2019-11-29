@@ -8,6 +8,11 @@ Click on Deepcomposer link to get started: https://console.aws.amazon.com/deepco
 
 ![access-console](images/lab1-access-console.png)
 
-Enter AWS account ID, username and password provided 
+Enter AWS account ID, IAM Username and Password provided 
 
-Click Sign In 
+Click Sign In
+
+## Get Started:
+
+![get-started](images/lab1-get-started.png)
+
