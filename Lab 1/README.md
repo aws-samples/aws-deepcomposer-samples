@@ -6,5 +6,5 @@
 
 Click on Deepcomposer get started page: https://console.aws.amazon.com/deepcomposer
 
-![access-console](images/lab1-compose music-access console.png)
+![access-console](images/lab1-access-console.png)
 
