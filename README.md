@@ -5,12 +5,8 @@ Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 ## [Lab 1: Compose music with DeepComposer models](Lab%201)
 
+## [Lab 2: Train a custom GAN model](Lab%202)
 
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
 
 ## License
 
