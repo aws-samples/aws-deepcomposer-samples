@@ -18,11 +18,11 @@ Click Sign In
 
 Click **Compose Music** in the Get started section
 
-![play-default](images/lab1-play-default.png)
+![play-default](images/lab1-play-default.PNG)
 
 Click *play* to play the default input melody
 
-![generate-composition](images/lab1-generate-composition.png)
+![generate-composition](images/lab1-generate-composition.PNG)
 
 Click **Generate composition** to generate a composition. AI generated composition will be created
 
@@ -30,7 +30,7 @@ Click *play* to play the new AI generated musical composition
 
 ## Input melody:
 
-![record-composition](images/lab1-record.png)
+![record-composition](images/lab1-record.PNG)
 
 Click *record* to start recording
 
@@ -42,7 +42,7 @@ Stop recording by clicking the *record* button again
 
 Play the recorded music to verify the input. In case you don’t like recorded music, you may start recording again by clicking *record*
 
-![model-jazz](images/lab1-model-default.png)
+![model-jazz](images/lab1-model-default.PNG)
 
 Select **Jazz**model from *Model*
 
