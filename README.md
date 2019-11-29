@@ -3,6 +3,9 @@
 Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 
+## [Lab 1: sample project](Lab%201)
+
+
 
 Be sure to:
 
