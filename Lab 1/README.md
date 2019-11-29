@@ -4,7 +4,10 @@
 
 ## Access AWS DeepComposer console:
 
-Click on Deepcomposer get started page: https://console.aws.amazon.com/deepcomposer
+Click on Deepcomposer link to get started: https://console.aws.amazon.com/deepcomposer
 
 ![access-console](images/lab1-access-console.png)
 
+Enter AWS account ID, username and password provided 
+
+Click Sign In 
