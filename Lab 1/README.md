@@ -44,7 +44,7 @@ Play the recorded music to verify the input. In case you don’t like recorded m
 
 ![model-jazz](images/lab1-model-default.PNG)
 
-Select **Jazz**model from *Model*
+Select **Jazz** model from *Model*
 
 Click **Generate Composition** to generate a composition based on the input melody you provided. *Note: This step will take few minutes to generate a composition inspired by the chosen genre*
 
