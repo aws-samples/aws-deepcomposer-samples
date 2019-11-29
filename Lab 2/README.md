@@ -42,4 +42,4 @@ If the kernel has an empty circle, it means it is free and ready to execute the 
 
 If the kernel has a filled circle, it means it is busy. Wait for it to become free before you execute the next line of code.
 
-**Congratulations on building a custom GAN model from scratch! **
+**Congratulations on building a custom GAN model from scratch!** 
