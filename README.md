@@ -9,7 +9,7 @@ Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 ## Optional Reading 
 
-## [Loss Functions for GAN architecture](Loss-function.md)
+## [Loss Functions for GAN architecture](Loss-functions.md)
 
 
 ## License
