@@ -9,7 +9,7 @@
 *__Timbre:__* what makes sounds different from each other. It is what makes us differentiate from the same pitch played by a guitar versus a piano or your fellow programmer whistling Iron Maiden. 
 
 
-
+![piano](Lab%20/images/piano.png)
 
 *__Note:__* a symbol denoting a musical sound. Represent the pitch and duration of a sound
 
