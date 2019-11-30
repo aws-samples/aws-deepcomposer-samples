@@ -7,6 +7,10 @@ Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 ## [Lab 2: Train a custom GAN model](Lab%202)
 
+## Optional Reading 
+
+## [Loss Functions for GAN architecture](Loss-function.md)
+
 
 ## License
 
