@@ -13,6 +13,8 @@ Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 ## [Music Terminologies Starter](Music-terminologies.md)
 
+## [re:Invent DeepComposer workshop deck](reinvent-workshop-deck)
+
 
 ## License
 
