@@ -13,10 +13,31 @@ Enter AWS account ID, IAM Username and Password provided
 Click Sign In
 
 ## Get Started:
+![models](images/models.jpg)
 
-![get-started](images/lab1-get-started.png)
+Choose **Models** from the left navigation menu
 
-Click **Compose Music** in the Get started section
+![create-models](images/create-models.jpg)
+
+Click **Create a model** to create a model in your account
+
+AWS DeepComposer provides several trained models for you to use. To use them, you need to clone these models into your account
+
+![clone-models](images/clone-models.jpg)
+
+Choose **Clone a pre-trained model** to clone the model into your account
+
+Choose a model of your choice from the list
+
+Provide a name for the model. The model will appear with this name in your model list
+
+![create-model-button](images/create-model-button.jpg)
+
+Click **Create model** to create the model in your account
+
+![music-studio](images/music-studio.jpg)
+
+Click **Music Studio** from the left navigation menu
 
 ![play-default](images/lab1-play-default.PNG)
 
