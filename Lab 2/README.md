@@ -1,6 +1,22 @@
-**Lab 2- Train a custom GAN model**
+# Lab 2 - Train a custom GAN model
 
-As part of this lab, you will learn to build a custom GAN architecture and train the model. Follow the steps below:
+## Goal
+
+As part of this lab, you will learn to build a custom GAN architecture and train the model using Amazon SageMaker.
+
+
+
+## Prerequisites
+
+* Access to Amazon SageMaker
+
+## Cost
+
+Using a ml.c5.4xlarge, the entire exercise take 3-4 hrs to run. Please see the [Amazon SageMaker pricing](https://aws.amazon.com/sagemaker/pricing/) for details. 
+
+## Setup
+
+First we create the Amazon SageMaker notebook instance.
 
 Navigate to Amazon SageMaker using the link: https://console.aws.amazon.com/sagemaker/home?region=us-east-1#/dashboard
 
@@ -33,16 +49,17 @@ Click **Open Jupyter**
 
 ![open-notebook](images/open_jupyter.png)
 
+
+
 Click **Lab 2** folder, then click **GAN.ipynb**
 
 ![GAN-notebook](images/gan_notebook.png)
-
 
 *You will likely be prompted to select kernel. Choose the drop down and select **conda_python3** as the kernel*
 
 ![set-kernel](images/set-kernel.PNG)
 
-This notebook contains instructions and code to create a custom GAN model from scratch. Scroll through the notebook content.
+This notebook contains instructions and code to create a custom GAN model from scratch. Follow the notebook content and run all cells to the end.
 
 ![run-notebook](images/run-notebook.PNG)
 
@@ -56,4 +73,16 @@ If the kernel has an empty circle, it means it is free and ready to execute the 
 
 If the kernel has a filled circle, it means it is busy. Wait for it to become free before you execute the next line of code.
 
+## Next Steps
+
 **Congratulations on building a custom GAN model from scratch!** 
+
+Now try using your model to create compositions based on your custom MIDI input.
+
+
+
+**Important: Remember to stop your Amazon SageMaker instances after you're done to avoid extra charges**
+
+
+
+![notebook-stop](images/notebook-stop.png)
