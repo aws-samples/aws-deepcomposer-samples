@@ -12,6 +12,9 @@ Enter AWS account ID, IAM Username and Password provided
 
 Click Sign In
 
+**Note- You must access the console in N.Virginia (us-east-1) AWS region** You can use the dropdown to select the correct region.
+![aws-region](images/aws-region.jpg)
+
 ## Get Started:
 ![models](images/models.jpg)
 
