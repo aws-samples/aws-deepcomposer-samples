@@ -11,15 +11,15 @@
 AWS DeepComposer 워크샵에 오신 것을 환영합니다. 워크샵은 2개의 Lab으로 구성되어 있으며, 
 Lab 진행 중 특정 task나 code cell의 수행 시간이 오래 소요될 때 Optional Reading의 내용을 읽어 보시는 것을 추천드립니다.
 
-## [Lab 1: DeepComposer 모델로 음악 작곡하기](Lab%201)
+## [Lab 1: DeepComposer 모델로 음악 작곡하기](./Lab%201/README-ko.md)
 
-## [Lab 2: Amazon SageMaker로 사용자 정의(custom) GAN 모델 학습하기](Lab%202)
+## [Lab 2: Amazon SageMaker로 사용자 정의(custom) GAN 모델 학습하기](./Lab%202/README-ko.md)
 
 # Optional Reading 
 
-## [GAN 아키텍처의 loss function](Loss-functions.md)
+## [GAN 아키텍처의 loss function](Loss-functions-ko.md)
 
-## [음악 용어](Music-terminologies.md)
+## [음악 용어(Music Terminologies)](Music-terminologies-ko.md)
 
 ## [re:Invent DeepComposer 워크숍 장표(deck)](reinvent-workshop-deck)
 

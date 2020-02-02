@@ -56,7 +56,7 @@ Click **Create model** to create the model in your account
 
 ![record-composition](images/lab1-record.PNG)
 
-Click *record* to start recording
+녹음을 시작하려면 *record*를 클릭하세요.
 
 ![custom-input](images/lab1-custom-music.png)
 
