@@ -1,3 +1,12 @@
+#Train a custom model in AWS DeepComposer with Sagemaker
+
+In this project you will learn how to train a generative adversarial network (GAN) and use your model 
+
+
+##What is AWS DeepComposer?
+testing testing testing  
+
+
 ## AWS DeepComposer
 
 Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
