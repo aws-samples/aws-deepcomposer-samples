@@ -1,0 +1,6 @@
+{
+  "temperature": 1,
+  "maxNotesAdded": 500,
+  "maxPercentageOfInitialNotesRemoved": 100,
+  "samplingIterations": 100
+}
