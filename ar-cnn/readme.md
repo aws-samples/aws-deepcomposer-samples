@@ -68,7 +68,7 @@ SageMaker IAM role, choose it from the list. If you are new to SageMaker, create
 
 9. Open the **GitHub repositories** panel. For **Default repository,** choose **Clone a public Git repository to this notebook instance only**.
 
-10. The GitHub repository called [project-title](https://github.com/froggie901/deep_lens_project) contains the Jupyter notebook 
+10. The GitHub repository called [ar-cnn](https://github.com/aws-samples/aws-deepcomposer-samples/tree/master/ar-cnn) contains the Jupyter notebook 
 required for this custom project. Copy this link and paste it into the field under **GitHub repositories**.
 
 11. Choose **Create notebook instance**.
