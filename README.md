@@ -18,4 +18,4 @@ Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+This library is licensed under the MIT-0 License. See the LICENSE file
