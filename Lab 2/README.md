@@ -12,7 +12,7 @@ As part of this lab, you will learn to build a custom GAN architecture and train
 
 ## Cost
 
-Using a ml.c5.4xlarge, the entire exercise take 3-4 hrs to run. Please see the [Amazon SageMaker pricing](https://aws.amazon.com/sagemaker/pricing/) for details. 
+Using a ml.c5.4xlarge, the entire exercise take 2-3 hrs to run. Please see the [Amazon SageMaker pricing](https://aws.amazon.com/sagemaker/pricing/) for details. 
 
 ## Setup
 
