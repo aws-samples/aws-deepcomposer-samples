@@ -55,7 +55,7 @@ Click **Lab 2** folder, then click **GAN.ipynb**
 
 ![GAN-notebook](images/gan_notebook.png)
 
-*You will likely be prompted to select kernel. Choose the drop down and select **conda_python3** as the kernel*
+*You will likely be prompted to select kernel. Choose the drop down and select **conda_tensorflow_p36** as the kernel*
 
 ![set-kernel](images/set-kernel.PNG)
 
