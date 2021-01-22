@@ -9,8 +9,6 @@ Welcome to AWS DeepComposer. This repository includes:
 
 ## [Training a Transformer-XL model](transformer-xl)
 
-## Optional Reading 
-
 
 ## License
 
