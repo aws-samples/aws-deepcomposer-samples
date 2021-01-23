@@ -1,0 +1,36 @@
+# TrainConfig
+base_init:
+- normal
+- 0.01
+batch_size: 64
+clip: 1.0
+dim_inner: 1000
+dim_model: 500
+data_dir: data/jsb_chorales_numpy
+dropatt: 0.1
+dropout: 0.1
+embed_init:
+- normal
+- 0.01
+eval_batch_size: 2
+eval_interval: 500
+eval_mem_len: 512
+eval_tgt_len: 128
+log_interval: 100
+lr: 0.0005
+lr_min: 2.5e-05
+max_step: 100000
+mem_len: 512
+num_heads: 10
+num_layers: 4
+optim: adam
+plot_interval: 500
+plot_losses_while_training: false
+save_all_test_losses: true
+save_path: checkpoints/
+scheduler: inv_sqrt
+seed: 101
+tgt_len: 128
+tie_embedding: true
+warmup_step: 4000
+weight_decay: 0.0
