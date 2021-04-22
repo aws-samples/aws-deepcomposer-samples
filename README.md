@@ -1,20 +1,15 @@
 ## AWS DeepComposer
 
-Welcome to AWS DeepComposer workshop. Here are quick links to the lab.
+Welcome to AWS DeepComposer. This repository includes:
 
 
-## [Lab 1: Compose music with DeepComposer models](Lab%201)
+## [re:Invent 2019 workshop labs](reinvent-labs)
 
-## [Lab 2: Train a custom GAN model](Lab%202)
+## [Training an autoregressive convolutional neural network(AR-CNN) model](ar-cnn)
 
-## Optional Reading 
-
-## [Loss Functions for GAN architecture](Loss-functions.md)
-
-## [Music Terminologies Starter](Music-terminologies.md)
+## [Training a Transformer-XL model](transformer-xl)
 
 
 ## License
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+Licensing varies between subdirectories. Check each subdirectory for its corresponding license.

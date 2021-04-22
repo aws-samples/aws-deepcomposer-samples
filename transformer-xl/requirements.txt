@@ -1,0 +1,9 @@
+pypianoroll==0.5.3
+music21==5.7.2
+texttable==1.6.2
+note_seq==0.0.2
+tqdm==4.42.1
+pretty_midi==0.2.9
+prettyprint==0.1.5
+torch==1.7.0
+autocfg==0.0.6
