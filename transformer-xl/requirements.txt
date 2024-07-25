@@ -5,5 +5,5 @@ note_seq==0.0.2
 tqdm==4.42.1
 pretty_midi==0.2.9
 prettyprint==0.1.5
-torch==1.7.0
+torch==2.2.0
 autocfg==0.0.6
